@@ -2,15 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bba25623-935b-403f-b11a-aedf3941ddfd" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二章：数据结构/2-2如何为元祖中的每个元素命名，提高程序的可读性.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二章：数据结构/2-3如何统计序列中元素的出现频度.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二章：数据结构/2-4如何根据字典中值的大小，对字典中的项排序.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二章：数据结构/2-5如何快速找到多个字典中的公共键（key）.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二章：数据结构/2-6如何让字典保持有序.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二章：数据结构/2-7如何实现用户的历史记录功能（最多N条）.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第3章：迭代器与生成器/3-1如何实现可迭代对象和迭代器对象(1).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第3章：迭代器与生成器/3-2如何实现可迭代对象和迭代器对象(2).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第3章：迭代器与生成器/3-3如何使用生成器函数实现可迭代对象.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第3章：迭代器与生成器/3-4如何进行反向迭代以及如何实现反向迭代.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第3章：迭代器与生成器/3-5如何对迭代器做切片操作.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第3章：迭代器与生成器/3-6如何在一个for语句中迭代多个可迭代对象.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/第二章：数据结构/2-1如何在列表,字典，集合中根据条件筛选数据.py" afterPath="$PROJECT_DIR$/第2章：数据结构/2-1如何在列表,字典，集合中根据条件筛选数据.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/第二章：数据结构/2-2如何为元祖中的每个元素命名，提高程序的可读性.py" afterPath="$PROJECT_DIR$/第2章：数据结构/2-2如何为元祖中的每个元素命名，提高程序的可读性.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/第二章：数据结构/2-3如何统计序列中元素的出现频度.py" afterPath="$PROJECT_DIR$/第2章：数据结构/2-3如何统计序列中元素的出现频度.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/第二章：数据结构/2-4如何根据字典中值的大小，对字典中的项排序.py" afterPath="$PROJECT_DIR$/第2章：数据结构/2-4如何根据字典中值的大小，对字典中的项排序.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/第二章：数据结构/2-5如何快速找到多个字典中的公共键（key）.py" afterPath="$PROJECT_DIR$/第2章：数据结构/2-5如何快速找到多个字典中的公共键（key）.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/第二章：数据结构/2-6如何让字典保持有序.py" afterPath="$PROJECT_DIR$/第2章：数据结构/2-6如何让字典保持有序.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/第二章：数据结构/2-7如何实现用户的历史记录功能（最多N条）.py" afterPath="$PROJECT_DIR$/第2章：数据结构/2-7如何实现用户的历史记录功能（最多N条）.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/第二章：数据结构/2-1如何在列表,字典，集合中根据条件筛选数据.py" afterPath="$PROJECT_DIR$/第二章：数据结构/2-1如何在列表,字典，集合中根据条件筛选数据.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,40 +25,77 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Python$2_5key.coverage" NAME="2-5如何快速找到多个字典中的公共键（key） Coverage Results" MODIFIED="1518356564295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章：数据结构" />
     <SUITE FILE_PATH="coverage/Python$2_7N.coverage" NAME="2-7如何实现用户的历史记录功能（最多N条） Coverage Results" MODIFIED="1518358843721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章：数据结构" />
     <SUITE FILE_PATH="coverage/Python$2_1_.coverage" NAME="2-1如何在列表,字典，集合中根据条件筛选数据 Coverage Results" MODIFIED="1518338906818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章：数据结构" />
     <SUITE FILE_PATH="coverage/Python$2_3.coverage" NAME="2-3如何统计序列中元素的出现频度 Coverage Results" MODIFIED="1518354524478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章：数据结构" />
     <SUITE FILE_PATH="coverage/Python$2_4.coverage" NAME="2-4如何根据字典中值的大小，对字典中的项排序 Coverage Results" MODIFIED="1518355389900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章：数据结构" />
+    <SUITE FILE_PATH="coverage/Python$3_5.coverage" NAME="3-5如何对迭代器做切片操作 Coverage Results" MODIFIED="1519366660733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第3章：迭代器与生成器" />
+    <SUITE FILE_PATH="coverage/Python$3_1_2_.coverage" NAME="3-1如何实现可迭代对象和迭代器对象(2) Coverage Results" MODIFIED="1519362710782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第3章：迭代器与生成器" />
+    <SUITE FILE_PATH="coverage/Python$3_6for.coverage" NAME="3-6如何在一个for语句中迭代多个可迭代对象 Coverage Results" MODIFIED="1519367860715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第3章：迭代器与生成器" />
+    <SUITE FILE_PATH="coverage/Python$2_5key.coverage" NAME="2-5如何快速找到多个字典中的公共键（key） Coverage Results" MODIFIED="1518356564295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章：数据结构" />
+    <SUITE FILE_PATH="coverage/Python$3_3.coverage" NAME="3-3如何使用生成器函数实现可迭代对象 Coverage Results" MODIFIED="1519364501902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第3章：迭代器与生成器" />
+    <SUITE FILE_PATH="coverage/Python$3_1_1_.coverage" NAME="3-1如何实现可迭代对象和迭代器对象(1) Coverage Results" MODIFIED="1519361402604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第3章：迭代器与生成器" />
     <SUITE FILE_PATH="coverage/Python$2_2.coverage" NAME="2-2如何为元祖中的每个元素命名，提高程序的可读性 Coverage Results" MODIFIED="1518339936170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章：数据结构" />
     <SUITE FILE_PATH="coverage/Python$2_6.coverage" NAME="2-6如何让字典保持有序 Coverage Results" MODIFIED="1518357730713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章：数据结构" />
+    <SUITE FILE_PATH="coverage/Python$3_4.coverage" NAME="3-4如何进行反向迭代以及如何实现反向迭代 Coverage Results" MODIFIED="1519366292331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第3章：迭代器与生成器" />
+    <SUITE FILE_PATH="coverage/Python$test.coverage" NAME="test Coverage Results" MODIFIED="1518378424992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="2-1如何在列表,字典，集合中根据条件筛选数据.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第二章：数据结构/2-1如何在列表,字典，集合中根据条件筛选数据.py">
+        <entry file="file://$PROJECT_DIR$/第2章：数据结构/2-1如何在列表,字典，集合中根据条件筛选数据.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
+            <state relative-caret-position="88">
               <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="48" />
-              <folding>
-                <element signature="e#24#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2-5如何快速找到多个字典中的公共键（key）.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第二章：数据结构/2-5如何快速找到多个字典中的公共键（key）.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2-6如何让字典保持有序.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第二章：数据结构/2-6如何让字典保持有序.py">
+      <file leaf-file-name="3-1如何实现可迭代对象和迭代器对象(1).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第3章：迭代器与生成器/3-1如何实现可迭代对象和迭代器对象(1).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3-2如何实现可迭代对象和迭代器对象(2).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第3章：迭代器与生成器/3-2如何实现可迭代对象和迭代器对象(2).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="118">
+              <caret line="47" column="2" lean-forward="false" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+              <folding>
+                <element signature="e#306#321#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3-3如何使用生成器函数实现可迭代对象.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第3章：迭代器与生成器/3-3如何使用生成器函数实现可迭代对象.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3-4如何进行反向迭代以及如何实现反向迭代.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第3章：迭代器与生成器/3-4如何进行反向迭代以及如何实现反向迭代.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3-5如何对迭代器做切片操作.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第3章：迭代器与生成器/3-5如何对迭代器做切片操作.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
@@ -62,11 +104,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2-7如何实现用户的历史记录功能（最多N条）.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/第二章：数据结构/2-7如何实现用户的历史记录功能（最多N条）.py">
+      <file leaf-file-name="3-6如何在一个for语句中迭代多个可迭代对象.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/第3章：迭代器与生成器/3-6如何在一个for语句中迭代多个可迭代对象.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="31" column="50" lean-forward="false" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+            <state relative-caret-position="267">
+              <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -94,6 +136,14 @@
         <option value="$PROJECT_DIR$/第二章：数据结构/2-5如何快速找到多个字典中的公共键（key）.py" />
         <option value="$PROJECT_DIR$/第二章：数据结构/2-6如何让字典保持有序.py" />
         <option value="$PROJECT_DIR$/第二章：数据结构/2-7如何实现用户的历史记录功能（最多N条）.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/第3章：迭代器与生成器/3-1如何实现可迭代对象和迭代器对象(1).py" />
+        <option value="$PROJECT_DIR$/第3章：迭代器与生成器/3-1如何实现可迭代对象和迭代器对象(2).py" />
+        <option value="$PROJECT_DIR$/第3章：迭代器与生成器/3-2如何实现可迭代对象和迭代器对象(2).py" />
+        <option value="$PROJECT_DIR$/第3章：迭代器与生成器/3-3如何使用生成器函数实现可迭代对象.py" />
+        <option value="$PROJECT_DIR$/第3章：迭代器与生成器/3-4如何进行反向迭代以及如何实现反向迭代.py" />
+        <option value="$PROJECT_DIR$/第3章：迭代器与生成器/3-5如何对迭代器做切片操作.py" />
+        <option value="$PROJECT_DIR$/第3章：迭代器与生成器/3-6如何在一个for语句中迭代多个可迭代对象.py" />
       </list>
     </option>
   </component>
@@ -103,7 +153,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="185" />
     <option name="y" value="38" />
     <option name="width" value="1304" />
@@ -125,6 +175,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,20 +187,28 @@
             <path>
               <item name="Python进阶" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python进阶" type="462c0819:PsiDirectoryNode" />
-              <item name="第二章：数据结构" type="462c0819:PsiDirectoryNode" />
+              <item name="第2章：数据结构" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python进阶" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python进阶" type="462c0819:PsiDirectoryNode" />
+              <item name="第3章：迭代器与生成器" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Envs/resume/Scripts/python.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\Python进阶\第3章：迭代器与生成器" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -162,111 +222,111 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2-7如何实现用户的历史记录功能（最多N条）">
-    <configuration name="2-3如何统计序列中元素的出现频度" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.3-6如何在一个for语句中迭代多个可迭代对象">
+    <configuration name="3-1如何实现可迭代对象和迭代器对象(2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二章：数据结构" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第3章：迭代器与生成器" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python进阶" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二章：数据结构/2-3如何统计序列中元素的出现频度.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\PycharmProjects\Python进阶\第3章：迭代器与生成器\3-2如何实现可迭代对象和迭代器对象(2).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="2-4如何根据字典中值的大小，对字典中的项排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3-3如何使用生成器函数实现可迭代对象" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二章：数据结构" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第3章：迭代器与生成器" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python进阶" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二章：数据结构/2-4如何根据字典中值的大小，对字典中的项排序.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第3章：迭代器与生成器/3-3如何使用生成器函数实现可迭代对象.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="2-5如何快速找到多个字典中的公共键（key）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3-4如何进行反向迭代以及如何实现反向迭代" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二章：数据结构" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第3章：迭代器与生成器" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python进阶" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二章：数据结构/2-5如何快速找到多个字典中的公共键（key）.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第3章：迭代器与生成器/3-4如何进行反向迭代以及如何实现反向迭代.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="2-6如何让字典保持有序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3-5如何对迭代器做切片操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二章：数据结构" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第3章：迭代器与生成器" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python进阶" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二章：数据结构/2-6如何让字典保持有序.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第3章：迭代器与生成器/3-5如何对迭代器做切片操作.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="2-7如何实现用户的历史记录功能（最多N条）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3-6如何在一个for语句中迭代多个可迭代对象" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二章：数据结构" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第3章：迭代器与生成器" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python进阶" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二章：数据结构/2-7如何实现用户的历史记录功能（最多N条）.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第3章：迭代器与生成器/3-6如何在一个for语句中迭代多个可迭代对象.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.2-3如何统计序列中元素的出现频度" />
-      <item index="1" class="java.lang.String" itemvalue="Python.2-4如何根据字典中值的大小，对字典中的项排序" />
-      <item index="2" class="java.lang.String" itemvalue="Python.2-5如何快速找到多个字典中的公共键（key）" />
-      <item index="3" class="java.lang.String" itemvalue="Python.2-6如何让字典保持有序" />
-      <item index="4" class="java.lang.String" itemvalue="Python.2-7如何实现用户的历史记录功能（最多N条）" />
+      <item index="0" class="java.lang.String" itemvalue="Python.3-1如何实现可迭代对象和迭代器对象(2)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.3-3如何使用生成器函数实现可迭代对象" />
+      <item index="2" class="java.lang.String" itemvalue="Python.3-4如何进行反向迭代以及如何实现反向迭代" />
+      <item index="3" class="java.lang.String" itemvalue="Python.3-5如何对迭代器做切片操作" />
+      <item index="4" class="java.lang.String" itemvalue="Python.3-6如何在一个for语句中迭代多个可迭代对象" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.2-7如何实现用户的历史记录功能（最多N条）" />
-        <item index="1" class="java.lang.String" itemvalue="Python.2-6如何让字典保持有序" />
-        <item index="2" class="java.lang.String" itemvalue="Python.2-5如何快速找到多个字典中的公共键（key）" />
-        <item index="3" class="java.lang.String" itemvalue="Python.2-4如何根据字典中值的大小，对字典中的项排序" />
-        <item index="4" class="java.lang.String" itemvalue="Python.2-3如何统计序列中元素的出现频度" />
+        <item index="0" class="java.lang.String" itemvalue="Python.3-6如何在一个for语句中迭代多个可迭代对象" />
+        <item index="1" class="java.lang.String" itemvalue="Python.3-5如何对迭代器做切片操作" />
+        <item index="2" class="java.lang.String" itemvalue="Python.3-4如何进行反向迭代以及如何实现反向迭代" />
+        <item index="3" class="java.lang.String" itemvalue="Python.3-3如何使用生成器函数实现可迭代对象" />
+        <item index="4" class="java.lang.String" itemvalue="Python.3-1如何实现可迭代对象和迭代器对象(2)" />
       </list>
     </recent_temporary>
   </component>
@@ -287,31 +347,54 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1320" height="784" extended-state="7" />
+    <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18711656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2315951" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45007452" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28614008" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36512667" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33084947" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45007452" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21013413" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18481596" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -321,11 +404,69 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/第2章：数据结构/2-1如何在列表,字典，集合中根据条件筛选数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="48" />
+          <folding>
+            <element signature="e#24#50#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第2章：数据结构/2-5如何快速找到多个字典中的公共键（key）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第2章：数据结构/2-6如何让字典保持有序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第2章：数据结构/2-3如何统计序列中元素的出现频度.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第2章：数据结构/2-7如何实现用户的历史记录功能（最多N条）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="50" lean-forward="false" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第2章：数据结构/2-2如何为元祖中的每个元素命名，提高程序的可读性.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
@@ -334,49 +475,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第二章：数据结构/2-4如何根据字典中值的大小，对字典中的项排序.py">
+    <entry file="file://$PROJECT_DIR$/第2章：数据结构/2-4如何根据字典中值的大小，对字典中的项排序.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第二章：数据结构/2-3如何统计序列中元素的出现频度.py">
+    <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        <state relative-caret-position="132">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第二章：数据结构/2-2如何为元祖中的每个元素命名，提高程序的可读性.py">
+    <entry file="file://$PROJECT_DIR$/第2章：数据结构/2-5如何快速找到多个字典中的公共键（key）.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第2章：数据结构/2-3如何统计序列中元素的出现频度.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第2章：数据结构/2-6如何让字典保持有序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="32" column="30" lean-forward="false" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第2章：数据结构/2-7如何实现用户的历史记录功能（最多N条）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第2章：数据结构/2-2如何为元祖中的每个元素命名，提高程序的可读性.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-433">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第二章：数据结构/2-5如何快速找到多个字典中的公共键（key）.py">
+    <entry file="file://$PROJECT_DIR$/第3章：迭代器与生成器/3-1如何实现可迭代对象和迭代器对象(1).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        <state relative-caret-position="242">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第二章：数据结构/2-1如何在列表,字典，集合中根据条件筛选数据.py">
+    <entry file="file://$PROJECT_DIR$/第3章：迭代器与生成器/3-3如何使用生成器函数实现可迭代对象.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="48" />
-          <folding>
-            <element signature="e#24#50#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="22">
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第二章：数据结构/2-6如何让字典保持有序.py">
+    <entry file="file://$PROJECT_DIR$/第3章：迭代器与生成器/3-4如何进行反向迭代以及如何实现反向迭代.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第3章：迭代器与生成器/3-5如何对迭代器做切片操作.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
@@ -384,10 +562,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第二章：数据结构/2-7如何实现用户的历史记录功能（最多N条）.py">
+    <entry file="file://$PROJECT_DIR$/第2章：数据结构/2-1如何在列表,字典，集合中根据条件筛选数据.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="31" column="50" lean-forward="false" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+        <state relative-caret-position="88">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第3章：迭代器与生成器/3-2如何实现可迭代对象和迭代器对象(2).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="47" column="2" lean-forward="false" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+          <folding>
+            <element signature="e#306#321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第3章：迭代器与生成器/3-6如何在一个for语句中迭代多个可迭代对象.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
           <folding />
         </state>
       </provider>
